@@ -5,7 +5,7 @@ baseurl:
 url: https://fengchongwang.github.io
 date_format: "ordinal"
 title: Keep Learning, Keep Thinking
-subtitle: "很喜歡《寒山子龐居士詩》"
+subtitle: "Blog of a Data Scientist"
 description: "Fengchong's blog"
 keywords: coding, fengchongwang, data science
 timezone: Europe/Berlin
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Fengchong Wang
-organization: f.wang@kigroup.de
+organization: fengchongwang@gmail.com
 organization_url: www.ki-analytics.de/en
 github_username: fengchongwang
 location: Cologne, Germany
