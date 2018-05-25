@@ -6,7 +6,7 @@ author: "Fengchong Wang"
 # Going Through Coursera Deep Learning Course
 ## First course
 ### A good example to explain relu and NN
-<figure class="image"><img src="images/blog/nn_explanation.png" alt="{{}}"><figcaption>Each neuron in the figure can be regarded as a relu computation on the weighted sum of the inputs</figcaption></figure>
+<figure class="image"><img src="/images/blog/nn_explanation.png" alt="{{}}"><figcaption>Each neuron in the figure can be regarded as a relu computation on the weighted sum of the inputs</figcaption></figure>
 
 ### Why relu instead of sigmoid?
 ReLU does not have small gradient area as sigmoid &rarr; training speed much higher.
