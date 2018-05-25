@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Quickly going through coursera deep learning course"
+layout: post
+title: "Andrew Ng's Deep Learning Course notes"
 author: "Fengchong Wang"
 ---
 # Going Through Coursera Deep Learning Course

@@ -1,18 +1,15 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: Keep Learning, Keep Thinking
+keywords: Fengchong Wang
 comments: true
 menu: 关于
 permalink: /about/
 ---
+Hi there, I am a data scientist. I am interested in all types of machine learning, i.e., traditional statistical machine learning and modern deep learning.
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+I love learning new stuffs, sleeping, cooking and appreciating Chinese traditional caligraphy (unfortunately, I do not have much time to practice it).
 
 ## 联系
 
