@@ -1,19 +1,18 @@
-- name: Software Engineer Keywords
+- name: Data Science Keywords
   keywords:
-      - Java
-      - C++
+      - Tensorflow
+      - TFLearn
+      - ConvNet
+      - RNN, LSTM
+      - XGBoost
+      - SVM
+      - GLM
+      - Deep Learning and Statistical Machine Learning
+
+- name: Software Development
+  keywords:
+      - R
       - Python
-      - Design Patterns
-
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Java
+      - Linux Shell
+      - C
