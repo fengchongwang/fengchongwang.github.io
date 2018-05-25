@@ -23,9 +23,7 @@ $y\in \{0, 1\}$,
 $\mathbf{Y} = [y^{(1)},y^{(2)},...,y^{(m)}]\in \mathbb{R}^{1\times m}$, is a $m$ dimensional row vector.
 
 ### Logistic regression
-Question:
-
-**Task:** predict $\hat{y}=P(y=1|\mathbf{x})$.
+**Task:** predict $\hat{y}=P(y=1\|\mathbf{x})$.
 
 **Model:** assume $y=\sigma (\mathbf{w}^T\mathbf{x}+b)$ where $\mathbf{w}\in \mathbb{R}^{n_x\times 1}$ and $b\in \mathbb{R}$.
 
@@ -41,5 +39,8 @@ Find $\mathbf{w},b$ to minimize $J$.
 **Solution:**
 \begin{equation}
 \frac{\partial J}{\partial \mathbf{w}}=-\frac{1}{m}\mathbf{X}(\mathbf{y}-\mathbf{\hat{y}})
+\end{equation}
+
+\begin{equation}
 \frac{\partial J}{\partial b}=-\frac{1}{m} np.sum(\mathbf{y}-\mathbf{\hat{y}})
 \end{equation}
